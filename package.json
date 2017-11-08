@@ -1,8 +1,8 @@
 {
-  "name": "catbox-memory",
-  "description": "Memory adapter for catbox",
+  "name": "catbox-memory-lfu",
+  "description": "Memory(LFU) adapter for catbox",
   "version": "3.1.1",
-  "repository": "git://github.com/hapijs/catbox-memory",
+  "repository": "git://github.com/andremetzen/catbox-memory-lfu",
   "main": "lib/index.js",
   "keywords": [
     "cache",
